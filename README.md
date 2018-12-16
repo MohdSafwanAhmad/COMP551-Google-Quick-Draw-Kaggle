@@ -1,4 +1,4 @@
-# Linear-Models-Applied-ML---F2018---hand-drawn-pictures-classification
+# Linear-Models
 Google has collected a series of hand-drawn images corresponding to a number of categories in their 'Quick, Draw!' project. 
 A modified subset of this dataset was provided which contained images that aren't always centered and straight, neither are they free of noisy artifacts.
 Some of the images are composed of just noise, and the classifier needed to identify such empty pictures too.  
